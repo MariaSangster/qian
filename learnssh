@@ -1,9 +1,0 @@
-# SSH学习
-`cat ~/.ssh/id_rsa.pub`
-可以查看是否生成了SSH
-
-`ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
-可以生成SSH
-
-`cat ~/.ssh/id_rsa.pub`
-可以获取SSH
